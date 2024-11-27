@@ -146,19 +146,4 @@ If you get 'command not found':
    xcode-select --install
    ```
 
-## Contributing
 
-Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
-
-[Your Name]
-
-## Acknowledgments
-
-- Thanks to the C math library for mathematical functions
-- Special thanks to all contributors and users
